@@ -1,0 +1,6 @@
+pdb|AAA1|A
+pdb|BBB1|A
+pdb|BBB2|A
+pdb|CCC1|A
+pdb|KKK1|A
+pdb|KKK2|A
